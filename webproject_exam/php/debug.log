@@ -1,0 +1,33 @@
+PHP script started
+PHP script started
+PHP script started
+PHP script started
+After database connection
+PHP script ended
+PHP script started
+After database connection
+POST request received
+POST data: Array
+(
+    [role] => staff
+    [name] => dhruv
+    [gender] => male
+    [contact] => 9856321456
+    [email] => dhruv@gmail.com
+    [password] => 123
+    [enrollment_id] => 23000510
+    [address] => jcgfcgcgfcg
+    [department] => hr
+    [semester] => 2
+)
+
+Extracted data: role=staff, name=dhruv, email=dhruv@gmail.com
+Before execute
+New record created successfully
+PHP script ended
+PHP script started
+After database connection
+PHP script ended
+PHP script started
+After database connection
+PHP script ended
